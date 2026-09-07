@@ -23,7 +23,7 @@ coverage, and reconciliation steps.
 
 - **Git**
 
-### Clone & Install
+### Clone & Install ###
 
 ```bash
 git clone https://github.com/diegosouzapw/OmniRoute.git
